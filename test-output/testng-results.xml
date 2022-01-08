@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-24T22:00:16 IST" name="Fiserv Code Assessment" finished-at="2021-08-24T22:00:24 IST" duration-ms="7990">
+    <groups>
+    </groups>
+    <test started-at="2021-08-24T22:00:16 IST" name="Google Search Test" finished-at="2021-08-24T22:00:24 IST" duration-ms="7990">
+      <class name="org.fiservTests.com.GooleSearchItemTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:org.fiservTests.com.GooleSearchItemTest@1b2abca6]" started-at="2021-08-24T22:00:16 IST" name="openBrowser" finished-at="2021-08-24T22:00:21 IST" duration-ms="4524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="googleSearchItemTest()[pri:0, instance:org.fiservTests.com.GooleSearchItemTest@1b2abca6]" started-at="2021-08-24T22:00:21 IST" name="googleSearchItemTest" description="Search some string in Google" finished-at="2021-08-24T22:00:24 IST" duration-ms="2677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearchItemTest -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:org.fiservTests.com.GooleSearchItemTest@1b2abca6]" started-at="2021-08-24T22:00:24 IST" name="quitBrowser" finished-at="2021-08-24T22:00:24 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- org.fiservTests.com.GooleSearchItemTest -->
+    </test> <!-- Google Search Test -->
+  </suite> <!-- Fiserv Code Assessment -->
+</testng-results>
